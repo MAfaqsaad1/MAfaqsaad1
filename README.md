@@ -2,7 +2,7 @@
 - 👀 I’m interested in ethical hacking
 - 🌱 I’m currently learning programing
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me magaqsaad100@gmail.com
+- 📫 How to reach me mafaqsaad100@gmail.com
 
 <!---
 MAfaqsaad1/MAfaqsaad1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
